@@ -1,25 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Course",
-    subtitle: "For making great content",
-    author: "Your Name Here",
-    authorSubtitle: "Company Here",
+    title: "Complete Intro to Realtime",
+    subtitle: "Websockets, Polling, and More",
+    author: "Brian Holt",
+    authorSubtitle: "Stripe",
     authorImage: "author.jpg", // this image should go in /static
     courseImage: "courseImage.png", // this also should go in /static
     twitter: "https://twitter.com/holtbt", // make empty string to omit socials
     linkedin: "https://linkedin.com/in/btholt",
     github: "https://github.com/btholt",
     description:
-      "This is the description that will show up when people share as well as on search engines",
+      "Learn how to do realtime communcation on the web with your teacher Brian Holt",
     keywords: [
-      "this is",
-      "a list of keywords and phrase",
-      "that search engines",
-      "will index your page for",
+      "realtime",
+      "websockets",
+      "polling",
+      "signalr",
+      "node.js",
+      "javascript",
+      "frontend",
     ],
   },
-  pathPrefix: "",
-  // pathPrefix: "/my-repo-name", // if you're using GitHub Pages, put the name of the repo here with a leading slash
+  pathPrefix: "/complete-intro-to-realtime", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     {
       resolve: "gatsby-plugin-react-svg",

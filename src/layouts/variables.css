@@ -5,18 +5,19 @@
 @import "prismjs/themes/prism-solarizedlight.css";
 
 :root {
-  --primary: #dfa067;
-  --secondary: #93aca7;
-  --highlight: #224159;
+  --primary: #4075a4;
+  --secondary: #cdffff;
+  --highlight: #0b151e;
 
   --text-header: var(--primary);
   --text-main-headers: var(--highlight);
-  --text-links: #007bff;
-  --text-footer: #333;
+  --text-links: #72c2ff;
+  --text-footer: #72c2ff;
 
   --bg-main: white;
-  --bg-dots: var(--highlight);
+  --bg-dots: var(--primary);
   --bg-lesson: white;
+  --bg-lesson-preface: var(--primary);
 
   --nav-buttons: var(--highlight);
   --nav-buttons-text: white;
