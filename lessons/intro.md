@@ -7,23 +7,23 @@ description: "this is the description that will show up in social shares"
 icon: "dumpster-fire"
 ---
 
-This is page one.
+## OUTLINE
 
-## Check out this image
-
-![Gatsby Logo](./images/logo.svg)
-
-## Check out a code sample
-
-```js
-const x = 2 + 2;
-```
-
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
-
-> This is emphasized information.
-
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/
+- Intro
+- The App
+- Polling
+  - Node.js
+  - Client
+  - Backoff & Retry
+- Raw Sockets
+  - Node.js
+  - Client
+- Socket.io
+  - Node.js
+  - Client
+- SignalR
+  - Node.js
+  - Client
+- Considerations
+  - Pub/Sub
+  - Auth
