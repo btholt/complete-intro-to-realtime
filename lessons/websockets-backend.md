@@ -209,4 +209,7 @@ Now if the socket closes, we'll see that reflected in the top right. If you're u
 
 That's it! We did it! We implmented WebSockets by hand! This is _way_ more burdensome than it needs to be. Lots of libraries do this for you and we're going to go look at one and talk about others. But congrats! This is not easy to do!!
 
+> The finished version of the app can be found here: [websockets/raw][gh]
+
 [ietf]: https://datatracker.ietf.org/doc/html/rfc6455
+[gh]: https://github.com/btholt/realtime-exercises/tree/main/websockets/raw
