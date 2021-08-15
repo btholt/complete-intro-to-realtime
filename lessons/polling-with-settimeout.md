@@ -60,6 +60,6 @@ Nothing too special here: just a normal ol' post request.
 
 Now your app should be working for long polling! This is the simplest way to acheive realtime: just make a lot of requests! Let's take this a step further and try to make it a bit better.
 
-> The current state of the repo can be found in the [noPause][gh] directory on the project.
+> The current state of the repo can be found in the [no-pause][gh] directory on the project.
 
-[gh]: todo
+[gh]: https://github.com/btholt/realtime-exercises/tree/main/polling/no-pause

@@ -4,6 +4,7 @@ title: "Intro to WebSockets"
 order: "3A"
 description: ""
 section: "WebSockets By Hand"
+icon: "hand-holding-heart"
 ---
 
 Let's get into true realtime: WebSockets. WebSockets are a primitive built into both browsers and backends alike that allow to us to have a long-running connection that allows clients to push data to servers and servers to push data to clients. As opposed to long-polling where we had a client that requesting and posting data to and from a server over many small connections, a WebSocket is one long-running connection where servers can push data to clients and vice versa. This is true realtime because it allows both sides to engage in realtime communication.

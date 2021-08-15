@@ -6,6 +6,8 @@ description: ""
 section: "Socket.IO"
 ---
 
+> Open the project directory to [websockets/exercise-socketio][start]
+
 This is going to be 100x teams easier than what we were doing before because we don't have to handle the raw mechanics of accepting a connection, negotiating an upgrade, handling the handshake to acknowledge what sort WebSocket connection it will be and what protocol they'll speak with, and so on. Instead, we just get to accept a connection.
 
 In exercise-socketio/backend/server.js, let's do the following
@@ -106,3 +108,8 @@ And that's it! Again, we scratched the surface here but I wanted to show you how
 - Connect your server to a data store (like Redis) so chat histories can survive restarts
 
 Congrats!
+
+> The finished code can be found in the project at [websockets/socketio][gh]
+
+[gh]: https://github.com/btholt/realtime-exercises/tree/main/websockets/socketio
+[start]: https://github.com/btholt/realtime-exercises/tree/main/websockets/exercise-socketio

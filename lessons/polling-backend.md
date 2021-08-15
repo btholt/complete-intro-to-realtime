@@ -6,7 +6,7 @@ section: "Polling"
 description: ""
 ---
 
-We are going to implement our chat app using long-polling. Open your app to the polling/exercise directory and we'll do this together.
+> We are going to implement our chat app using long-polling. Open your app to the [polling/exercise directory][gh] and we'll do this together.
 
 Let's do the backend first. Open backend/server.js. Let's acquaint ourselves with the code here.
 
@@ -57,3 +57,5 @@ app.post("/poll", function (req, res) {
 ```
 
 Awesome! Now try using something like Insomnia to make a post to your new end point with a user and a text and see if it shows up in the get.
+
+[gh]: https://github.com/btholt/complete-intro-to-realtime

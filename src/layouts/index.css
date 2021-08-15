@@ -404,10 +404,10 @@ ol.sections-name .lesson-details {
   background: var(--nav-buttons);
   color: var(--nav-buttons-text);
   padding: 15px 20px;
-  display: inline-block;
   display: flex;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
 }
 
 .lesson-links a.prev {

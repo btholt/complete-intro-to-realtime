@@ -77,4 +77,7 @@ So a few things here:
 
 In general I don't write retry logic myself. There are numerous, numerous packages on npm that handle backoff and retry with lots of unit tests and users so I tend to just rely on that. If I did, I'd write one central library for my project to rely on and then I'd test the hell out of it. But it's good for you to know how to write this!
 
+> The current state of the repo can be found in the [backoff-and-retry][gh] directory on the project.
+
+[gh]: https://github.com/btholt/realtime-exercises/tree/main/polling/backoff-and-try
 [ddos]: https://en.wikipedia.org/wiki/Denial-of-service_attack

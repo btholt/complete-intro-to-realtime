@@ -36,3 +36,7 @@ Let's chat about requestAnimationFrame. It runs _a lot_. But the good thing is i
 So requestAnimationFrame runs whenever the thread is idle. That's a lot. So that core function rafTimer needs to be super lightweight. Just check if it's time to run and if not just schedule itself to run again. That's all. We get the background pausing feature for free. Notice now if you put your tab in the background and wait a few minutes it will eventually stop polling until your bring it back up. Every browser is different before it sleeps a tab but it could be a few minutes. I think Firefox will actually resume the tab if you even just hover over the tab. Cool stuff, but it's nice to offload all that work to the browser.
 
 That's it! That's really the basics of just doing long-polling.
+
+> The current state of the repo can be found in the [pause-on-unfocus][gh] directory on the project.
+
+[gh]: https://github.com/btholt/realtime-exercises/tree/main/polling/pause-on-unfocus

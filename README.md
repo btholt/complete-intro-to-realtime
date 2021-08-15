@@ -1,4 +1,8 @@
-[![Complete Intro to Realtime](/static/courseImage.png)][course]
+<h1 align="center"><img style="max-width: 200px" src="/static/courseImage.png" /></h1> <br>
+
+<p align="center">
+  The Complete Intro to Realtime, as taught by Brian Holt for Frontend Masters
+</p>
 
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
 

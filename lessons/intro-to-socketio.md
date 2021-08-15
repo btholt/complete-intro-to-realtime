@@ -4,6 +4,7 @@ title: "Intro to Socket.IO"
 order: "4A"
 description: ""
 section: "Socket.IO"
+icon: "exchange-alt"
 ---
 
 Okay, so we got WebSockets working by hand, and we did it with no libraries. While a fun academic exercise, it's not a super practical approach to doing realtime communications. I'd say it's as practical as writing a Node.js server with zero libraries. Sure, the http library technically has all the building blocks you need but even something as Express can save you so much time in re-inventing the wheel. Beyond that, those core mechanics of adding middlewares and such are already well written and tested at scale.
