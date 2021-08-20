@@ -1,7 +1,7 @@
 ---
 path: "/socketio"
 title: "Intro to Socket.IO"
-order: "4A"
+order: "5A"
 description: ""
 section: "Socket.IO"
 icon: "exchange-alt"

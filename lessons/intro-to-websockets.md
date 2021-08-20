@@ -1,7 +1,7 @@
 ---
 path: "/intro-to-websockets"
 title: "Intro to WebSockets"
-order: "3A"
+order: "4A"
 description: ""
 section: "WebSockets By Hand"
 icon: "hand-holding-heart"

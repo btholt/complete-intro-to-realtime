@@ -1,7 +1,7 @@
 ---
 path: "/conclusion"
 title: "Conclusion"
-order: "5A"
+order: "6A"
 description: ""
 section: "The End"
 icon: "check-circle"

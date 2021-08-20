@@ -1,7 +1,7 @@
 ---
 path: "/chat-with-socketio"
 title: "Chat with Socket.IO"
-order: "4B"
+order: "5B"
 description: ""
 section: "Socket.IO"
 ---
