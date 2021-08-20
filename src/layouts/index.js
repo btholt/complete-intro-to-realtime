@@ -9,7 +9,7 @@ import "@fortawesome/fontawesome-free/css/all.css";
 import "./index.css";
 
 import Footer from "./Footer";
-// import jpg from "../../static/posterframe.jpg";
+import jpg from "../../static/posterframe.jpg";
 
 const TemplateWrapper = (props) => {
   return (
@@ -51,16 +51,16 @@ const TemplateWrapper = (props) => {
                   name: "twitter:card",
                   content: "summary_large_image",
                 },
-                // {
-                //   name: "og:image",
-                //   content: "https://btholt.github.io" + jpg,
-                // },
-                // {
-                //   name: "og:url",
-                //   content:
-                //     "https://btholt.github.io/complete-intro-to-computer-science" +
-                //     (frontmatter && frontmatter.path ? frontmatter.path : ""),
-                // },
+                {
+                  name: "og:image",
+                  content: "https://btholt.github.io" + jpg,
+                },
+                {
+                  name: "og:url",
+                  content:
+                    "https://btholt.github.io/complete-intro-to-realtime" +
+                    (frontmatter && frontmatter.path ? frontmatter.path : ""),
+                },
                 {
                   name: "keywords",
                   content: data.site.siteMetadata.keywords.join(", "),
