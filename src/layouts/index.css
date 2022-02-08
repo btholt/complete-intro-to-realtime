@@ -43,6 +43,27 @@ a {
   padding: 0;
 }
 
+.button {
+  border-radius: 10px;
+  padding: 0;
+  background: var(--nav-buttons);
+  color: var(--nav-buttons-text);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.button a {
+  padding: 3px 8px;
+  color: white;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--primary);
+}
+
 .jumbotron .courseInfo,
 .jumbotron .courseIcon {
   padding: 20px;

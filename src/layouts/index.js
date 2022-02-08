@@ -75,6 +75,7 @@ const TemplateWrapper = (props) => {
               {!frontmatter ? null : (
                 <h2>{`${frontmatter.section} – ${frontmatter.title}`}</h2>
               )}
+              <h2 class="button"><a href="https://frontendmasters.com/courses/realtime/">Complete Intro to Realtime Videos&nbsp;▶️&nbsp;</a></h2>
             </div>
             <div className="content-container">
               <div className="main">{props.children}</div>
