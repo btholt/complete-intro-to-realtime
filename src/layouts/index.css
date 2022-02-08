@@ -54,15 +54,27 @@ a {
   text-decoration: none;
 }
 
+.button .icon {
+  padding-left: 5px;
+  display: inline-block;
+}
+
 .button a {
   padding: 3px 8px;
   color: white;
   text-decoration: none;
 }
 
+@media (max-width: 768px) {
+  .mobile-hidden {
+    display: none;
+  }
+}
+
 .button:hover {
   background: var(--primary);
 }
+
 
 .jumbotron .courseInfo,
 .jumbotron .courseIcon {
