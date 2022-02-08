@@ -69,6 +69,9 @@ a {
   .mobile-hidden {
     display: none;
   }
+  .lesson-container {
+    padding-top: 65px;
+  }
 }
 
 .button:hover {
@@ -181,7 +184,7 @@ a {
   position: relative;
   max-width: 900px;
   margin: 0 auto 45px auto;
-  padding: 10px 40px;
+  padding: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: var(--bg-lesson);
   border-radius: 5px;
