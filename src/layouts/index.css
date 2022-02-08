@@ -65,7 +65,7 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 1725px) {
+@media (max-width: 1125px) {
   .mobile-hidden {
     display: none;
   }
