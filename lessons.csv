@@ -1,0 +1,15 @@
+path,title,order,section,description,icon
+"/intro","Introduction","1A","Welcome","this is the description that will show up in social shares","door-open"
+"/the-project","The Project","1B","Welcome",,
+"/polling","Intro to Long-Polling","2A","Polling",,"spinner"
+"/polling-backend","Polling Backend","2B","Polling",,
+"/settimeout","Polling with setTimeout","2C","Polling",,
+"/requestanimationframe","Polling with requestAnimationFrame","2D","Polling",,
+"/backoff-and-retry","Backoff and Retry","2E","Polling",,
+"/intro-to-http2-push","Intro to HTTP2 Push","3A","HTTP2",,"angle-double-right"
+"/chat-with-http2-push","Chat with HTTP2 Push","3B","HTTP2",,
+"/intro-to-websockets","Intro to WebSockets","4A","WebSockets By Hand",,"hand-holding-heart"
+"/websockets-backend","WebSockets Backend","4B","WebSockets By Hand",,
+"/socketio","Intro to Socket.IO","5A","Socket.IO",,"exchange-alt"
+"/chat-with-socketio","Chat with Socket.IO","5B","Socket.IO",,
+"/conclusion","Conclusion","6A","The End",,"check-circle"

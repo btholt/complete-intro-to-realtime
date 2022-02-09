@@ -1,0 +1,15 @@
+order,title,link0,link1,link2,link3,link4,link5,link6,link7,link8,link9,link10,link11
+1A,Introduction,https://bit.ly/intro-realtime,https://frontendmasters.com/bootcamp/,https://frontendmasters.com/courses/web-development-v2/,https://frontendmasters.com/courses/node-js-v2/,https://stripe.com/,https://frontendmasters.com/teachers/brian-holt/,https://twitter.com/holtbt,https://github.com/btholt,https://www.linkedin.com/in/btholt/,https://members.onepeloton.com/members/btholt/overview,https://github.com/btholt/complete-intro-to-realtime/issues,https://github.com/btholt/complete-intro-to-realtime
+1B,The Project,https://github.com/nvm-sh/nvm,https://code.visualstudio.com/,https://gumroad.com/l/dank-mono,https://worldofzero.com/posts/enable-font-ligatures-vscode/,https://github.com/microsoft/cascadia-code,https://marketplace.visualstudio.com/items?itemName=sdras.night-owl,https://iterm2.com/,https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab,https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons,https://github.com/btholt/realtime-exercises,https://materializecss.com/,
+2A,Intro to Long-Polling,,,,,,,,,,,,
+2B,Polling Backend,https://github.com/btholt/complete-intro-to-realtime,,,,,,,,,,,
+2C,Polling with setTimeout,https://github.com/btholt/realtime-exercises/tree/main/polling/no-pause,,,,,,,,,,,
+2D,Polling with requestAnimationFrame,https://github.com/btholt/realtime-exercises/tree/main/polling/pause-on-unfocus,,,,,,,,,,,
+2E,Backoff and Retry,https://en.wikipedia.org/wiki/Denial-of-service_attack,https://github.com/btholt/realtime-exercises/tree/main/polling/backoff-and-try,,,,,,,,,,
+3A,Intro to HTTP2 Push,,,,,,,,,,,,
+3B,Chat with HTTP2 Push,https://github.com/btholt/realtime-exercises/tree/main/http2/exercise,https://brew.sh/,https://www.google.com/search?q=install+openssl+windows,https://community.chocolatey.org/packages?q=openssl,https://github.com/btholt/realtime-exercises/tree/main/http2/push,,,,,,,
+4A,Intro to WebSockets,https://frontendmasters.com/courses/complete-intro-containers/,,,,,,,,,,,
+4B,WebSockets Backend,https://datatracker.ietf.org/doc/html/rfc6455,https://github.com/btholt/realtime-exercises/tree/main/websockets/raw,,,,,,,,,,
+5A,Intro to Socket.IO,https://socket.io,https://github.com/websockets/ws,,,,,,,,,,
+5B,Chat with Socket.IO,https://github.com/btholt/realtime-exercises/tree/main/websockets/exercise-socketio,https://github.com/btholt/realtime-exercises/tree/main/websockets/socketio,,,,,,,,,,
+6A,Conclusion,https://github.com/websockets/ws,https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0,https://frontendmasters.com/courses/complete-react-v6/,,,,,,,,,
