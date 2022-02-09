@@ -1,4 +1,9 @@
-<h1 align="center"><img style="max-width: 200px" src="/static/courseImage.png" /></h1> <br>
+<h1 align="center">
+  <a href="https://frontendmasters.com/courses/realtime/">
+    <img src="/static/courseImage.png" width=200></h1>
+  </a>
+</h1>
+<br/>
 
 <p align="center">
   <a href="https://frontendmasters.com/courses/realtime/">The Complete Intro to Realtime, as taught by Brian Holt for Frontend Masters</a>
