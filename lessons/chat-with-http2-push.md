@@ -130,7 +130,7 @@ This will go forever, as long as that socket is open. That's what the do/while l
 Let's go finish up server.js
 
 ```javascript
-// inside of server.on("streams")
+// inside of server.on("stream")
 // under stream.write
 // replace stream.on("close")
 
