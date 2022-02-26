@@ -33,4 +33,4 @@ Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from
 
 [fem]: https://frontendmasters.com/
 [course]: https://btholt.github.io/complete-intro-to-realtime
-[project]: https://github.com/btholt/realtime-projects/
+[project]: https://github.com/btholt/realtime-exercises
