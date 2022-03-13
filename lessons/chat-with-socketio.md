@@ -8,7 +8,7 @@ section: "Socket.IO"
 
 > Open the project directory to [websockets/exercise-socketio][start]
 
-This is going to be 100x teams easier than what we were doing before because we don't have to handle the raw mechanics of accepting a connection, negotiating an upgrade, handling the handshake to acknowledge what sort WebSocket connection it will be and what protocol they'll speak with, and so on. Instead, we just get to accept a connection.
+This is going to be 100x times easier than what we were doing before because we don't have to handle the raw mechanics of accepting a connection, negotiating an upgrade, handling the handshake to acknowledge what sort WebSocket connection it will be and what protocol they'll speak with, and so on. Instead, we just get to accept a connection.
 
 In exercise-socketio/backend/server.js, let's do the following
 
