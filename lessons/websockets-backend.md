@@ -177,6 +177,7 @@ Awesome, now this will take the message, parse it using our parseMessage functio
 let connections = [];
 
 // under socket.write(objToResponse), above socket.on('data')
+connections.push(socket);
 
 // under msg.push inside the if statement in socket.on('data')
 connections.forEach((s) => s.write(objToResponse({ msg: getMsgs() })));
