@@ -19,7 +19,7 @@ Please file issues and open pull requests here! Thank you! For issues with proje
 
 # Project Files
 
-[Please go here](https://github.com/btholt/realtime-exercises)for the project files.
+[Please go here](https://github.com/btholt/realtime-exercises) for the project files.
 
 # License
 
